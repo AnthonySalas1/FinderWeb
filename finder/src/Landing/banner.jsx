@@ -9,7 +9,10 @@ function Banner() {
       <img alt="" src={gift} />
       <div className="content">
         <h1>FINDER</h1>
-        <p> Working!!</p>
+        <p></p>
+        <br></br>
+        <p> Busca ese trabajo !!</p>
+
       </div>
     </div>
   );

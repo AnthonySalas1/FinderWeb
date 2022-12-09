@@ -17,14 +17,14 @@ export const Navbar = () => {
      return (
        <>
          <React.Fragment>
-           <AppBar sx={{ background: "rgba(0,0,0,.5)" }}>
+           <AppBar sx={{ height:'100%', background: "rgba(0,0,0,.4)" }}>
              <Toolbar>
                {isMatch ? (
                  <>
                    <WorkIcon
                      sx={{
                        width: "80px",
-                       height: "120px",
+                       height: "100px",
                        marginRight: "20px",
                      }}
                    />

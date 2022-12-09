@@ -31,6 +31,7 @@ export default function Jobs() {
         display: "in-line",
         liststyletype: "disc",
         padding: 0,
+        background:'black'
       }}
     >
       <ImageListItem key="Subheader" cols={2}></ImageListItem>
